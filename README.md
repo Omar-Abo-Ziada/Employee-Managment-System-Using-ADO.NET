@@ -34,7 +34,7 @@ The system supports real-time updates, allowing for the addition, removal, or up
 This project marks a successful completion, despite encountering challenges along the way. It serves as a testament to perseverance and problem-solving in the realm of software development.
 
 ## **GitHub Repository**
-Explore this and other projects on my GitHub repository: [GitHub](https://lnkd.in/dgFJaT2K)
+Explore this and other projects on my GitHub repository: [GitHub](https://github.com/Omar-Abo-Ziada/Employee-Managment-System-Using-ADO.NET.git)
 
 ## **Tags**
 **#CSharp #MSQL #ADONET #ThreeLayerArchitecture #ITI #dashboard #DataMagic #LabMysteries #SoftwareShenanigans #AchievementUnlocked** 🎯
