@@ -1,0 +1,5 @@
+ExtentionMethods :
+1- integer (reverse - NoofDigit)
+2- string (trim)
+3- IEnumerable<integer> (max) 
+**bonus IEnumerable<T> (max)

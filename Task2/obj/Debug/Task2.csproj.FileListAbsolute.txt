@@ -1,0 +1,10 @@
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task2\bin\Debug\Task2.exe.config
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task2\bin\Debug\Task2.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task2\bin\Debug\Task2.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task2\obj\Debug\Task2.Form1.resources
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task2\obj\Debug\Task2.Properties.Resources.resources
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task2\obj\Debug\Task2.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task2\obj\Debug\Task2.pdb

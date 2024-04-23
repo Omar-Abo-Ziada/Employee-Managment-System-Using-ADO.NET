@@ -1,0 +1,14 @@
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task 1\bin\Debug\net8.0\Task 1.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task 1\bin\Debug\net8.0\Task 1.deps.json
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task 1\bin\Debug\net8.0\Task 1.runtimeconfig.json
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task 1\bin\Debug\net8.0\Task 1.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task 1\bin\Debug\net8.0\Task 1.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task 1\obj\Debug\net8.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task 1\obj\Debug\net8.0\Task 1.AssemblyInfoInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task 1\obj\Debug\net8.0\Task 1.AssemblyInfo.cs
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task 1\obj\Debug\net8.0\Task 1.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task 1\obj\Debug\net8.0\Task 1.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task 1\obj\Debug\net8.0\refint\Task 1.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task 1\obj\Debug\net8.0\Task 1.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task 1\obj\Debug\net8.0\Task 1.genruntimeconfig.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day10\Task 1\obj\Debug\net8.0\ref\Task 1.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UziR90ZIFSDpma3/94FGep6mnSyXApUS9BTsmMxXYbn4yTES5uoEvV1XhtB1Anf5YjXCFUmAKoWMRffq+jQDyw==",
+  "success": true,
+  "projectFilePath": "D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\Sequence\\Sequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oahme\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\oahme\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\oahme\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\oahme\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

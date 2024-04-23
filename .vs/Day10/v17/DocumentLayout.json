@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E45D0AE-7FD9-4B93-B055-4068836FF40A}|Task2\\Task2.csproj|d:\\software_courses\\my_iti_44\\16-c_sharp\\day10\\task2\\businesslogiclayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E45D0AE-7FD9-4B93-B055-4068836FF40A}|Task2\\Task2.csproj|solutionrelative:task2\\businesslogiclayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E45D0AE-7FD9-4B93-B055-4068836FF40A}|Task2\\Task2.csproj|D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E45D0AE-7FD9-4B93-B055-4068836FF40A}|Task2\\Task2.csproj|solutionrelative:task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E45D0AE-7FD9-4B93-B055-4068836FF40A}|Task2\\Task2.csproj|D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E45D0AE-7FD9-4B93-B055-4068836FF40A}|Task2\\Task2.csproj|solutionrelative:task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E45D0AE-7FD9-4B93-B055-4068836FF40A}|Task2\\Task2.csproj|D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\task2\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E45D0AE-7FD9-4B93-B055-4068836FF40A}|Task2\\Task2.csproj|solutionrelative:task2\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E45D0AE-7FD9-4B93-B055-4068836FF40A}|Task2\\Task2.csproj|D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\task2\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E45D0AE-7FD9-4B93-B055-4068836FF40A}|Task2\\Task2.csproj|solutionrelative:task2\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E45D0AE-7FD9-4B93-B055-4068836FF40A}|Task2\\Task2.csproj|D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\task2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E45D0AE-7FD9-4B93-B055-4068836FF40A}|Task2\\Task2.csproj|solutionrelative:task2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E45D0AE-7FD9-4B93-B055-4068836FF40A}|Task2\\Task2.csproj|D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E45D0AE-7FD9-4B93-B055-4068836FF40A}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\Task2\\Form1.cs",
+              "RelativeDocumentMoniker": "Task2\\Form1.cs",
+              "ToolTip": "D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\Task2\\Form1.cs",
+              "RelativeToolTip": "Task2\\Form1.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAkwIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-23T09:37:18.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessLogicLayer.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\Task2\\BusinessLogicLayer.cs",
+              "RelativeDocumentMoniker": "Task2\\BusinessLogicLayer.cs",
+              "ToolTip": "D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\Task2\\BusinessLogicLayer.cs",
+              "RelativeToolTip": "Task2\\BusinessLogicLayer.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAcwKcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:37:18.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\Task2\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "Task2\\DataAccessLayer.cs",
+              "ToolTip": "D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\Task2\\DataAccessLayer.cs",
+              "RelativeToolTip": "Task2\\DataAccessLayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:37:19.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\Task2\\Department.cs",
+              "RelativeDocumentMoniker": "Task2\\Department.cs",
+              "ToolTip": "D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\Task2\\Department.cs",
+              "RelativeToolTip": "Task2\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:37:19.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\Task2\\Employee.cs",
+              "RelativeDocumentMoniker": "Task2\\Employee.cs",
+              "ToolTip": "D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\Task2\\Employee.cs",
+              "RelativeToolTip": "Task2\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:37:19.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:37:19.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\Task2\\Form1.cs",
+              "RelativeDocumentMoniker": "Task2\\Form1.cs",
+              "ToolTip": "O:\\Software_Courses\\My_ITI_44\\16-C_Sharp\\Day10\\Task2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-23T09:37:19.057Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Day10\bin\Debug\Day10.exe.config
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Day10\bin\Debug\Day10.exe
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Day10\bin\Debug\Day10.pdb
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Day10\obj\Debug\Day10.csproj.AssemblyReference.cache
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Day10\obj\Debug\Day10.csproj.SuggestedBindingRedirects.cache
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Day10\obj\Debug\Day10.csproj.CoreCompileInputs.cache
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Day10\obj\Debug\Day10.exe
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Day10\obj\Debug\Day10.pdb

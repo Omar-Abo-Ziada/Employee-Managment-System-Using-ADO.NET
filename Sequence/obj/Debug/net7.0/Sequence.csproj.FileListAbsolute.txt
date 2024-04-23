@@ -1,0 +1,15 @@
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Sequence\bin\Debug\net7.0\Sequence.exe
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Sequence\bin\Debug\net7.0\Sequence.deps.json
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Sequence\bin\Debug\net7.0\Sequence.runtimeconfig.json
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Sequence\bin\Debug\net7.0\Sequence.dll
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Sequence\bin\Debug\net7.0\Sequence.pdb
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Sequence\obj\Debug\net7.0\Sequence.csproj.AssemblyReference.cache
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Sequence\obj\Debug\net7.0\Sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Sequence\obj\Debug\net7.0\Sequence.AssemblyInfoInputs.cache
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Sequence\obj\Debug\net7.0\Sequence.AssemblyInfo.cs
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Sequence\obj\Debug\net7.0\Sequence.csproj.CoreCompileInputs.cache
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Sequence\obj\Debug\net7.0\Sequence.dll
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Sequence\obj\Debug\net7.0\refint\Sequence.dll
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Sequence\obj\Debug\net7.0\Sequence.pdb
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Sequence\obj\Debug\net7.0\Sequence.genruntimeconfig.cache
+D:\Work\Instructor\C#\Inteka44\PD\Day10\Sequence\obj\Debug\net7.0\ref\Sequence.dll
